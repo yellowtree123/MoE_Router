@@ -1,0 +1,1 @@
+python3 main.py --batch_size=32 --num_epochs=10  --learning_rate=1e-4 --topk=1 --data_set=MNIST --routing_method=Topk --data_set=MNIST --expert_type=MLP --use_moe --num_experts=10
